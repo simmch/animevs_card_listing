@@ -1,0 +1,56 @@
+
+-- Destiny List
+Adult Gon - 10
+Netero - 10
+Karapika - 8
+Killua - 8
+Leorio - 5
+
+-- Scenario List
+Gon - 8
+Kite - 8
+Hisoka - 9
+
+-- Tales List
+Meleoron - 5 
+Goto - 7
+Bomber - 7
+Canary - 6
+Binolt - 6
+Sadaso - 5
+Riehlvelt - 5
+Zushi - 5
+Colt - 5
+
+-- Dungeon List
+Neferpito - 9
+Youpi - 9
+Shaiapouf - 9
+Zeno - 10
+Silva - 10
+Morell - 8
+Bisky - 7
+Chrollo - 10
+Illumi - 9
+Feitan - 8
+Nobunaga - 9
+Uvogin - 9
+Bona lenov - 8
+Finx - 9
+Knuckle - 8 
+Razor - 8
+Shoot - 8 
+Shalnark - 8
+Kaluto - 7
+Zanzan - 7
+Rammot - 7
+Mosquito - 7
+Leol - 8
+Palm - 8 
+Cheetu - 7
+Machi - 8
+Welfin - 7
+
+-- Boss List
+Meruem post rose - 10
+Meruem pre rose - 10

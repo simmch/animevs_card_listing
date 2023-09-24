@@ -1,0 +1,54 @@
+-- Destiny List
+Giyu Tomioka - 10
+Kaigaku - 9
+Kyojuro Rengoku - 7
+Akaza - 9
+Nezuko Kamado - 9
+Demon King Tanjiro - 10
+Kanao Tsuyuri - 8
+
+-- Scenario List
+Doma - 10
+Zenitsu Agatsuma - 9
+Tanjiro Kamado - 9
+Inosuke Hashibira - 9
+Yoriichi Tsugikuni - 10
+Kokushibo - 10
+
+-- Tales List
+Sabito - 2
+Spider Demon Son - 3
+Yahaba - 2
+Sakonji Urokodaki - 3
+Aoi Kanzaki - 5
+Kamanue - 2
+Wakuraba - 2 
+Mukago - 2
+Rokuro - 2
+Temple Demon - 1
+Swamp Demon - 1
+Yushiro - 2
+Hand Demon - 2
+Kyogai - 2
+Spider Demon Mom - 2
+Spider Demon Father - 3
+Susamaru - 2
+Tongue Demon - 1
+
+-- Dungeon List
+Enmu - 7
+Sanemi Shinazugawa - 10
+Genya Shinazugawa - 7
+Mitsuri Kanroji - 8
+Muichiro Tokito - 8
+Nakime - 7
+Obanai Iguro - 9
+Gyomei Himejima - 10
+Tengen Uzui - 8
+Shinobu Kocho - 10
+Rui - 5
+Gyutaro - 7
+Daki - 6
+
+-- Boss List
+Muzan Kibutsuji - 10

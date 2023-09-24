@@ -1,0 +1,58 @@
+
+-- Destiny List
+Yu Narukami
+Minato Arisato
+Ren Amamiya
+Messiah
+Lucifer
+Satan
+Satanel
+Izanami Picaro
+
+-- Scenario List
+The Reaper
+Makoto Nijima
+Ichiryusai Madarame
+Yukiko Amagi
+Ann Takamaki
+Aigis
+Suguru Kamoshida
+Izanami
+
+-- Tales List
+Koromaru
+Kanji Tatsumi
+Haru Okumura
+Rise Kujikawa
+Akihiko Sanada
+Junpei Iori
+Morgana
+Shinjiro Aragaki
+Futaba Sakura
+Ryuji Sakamoto
+Teddie
+Chie Satonaka
+Yukari Takeba
+Yosuke Hanamura
+Ken Amada
+
+-- Dungeon List
+Naoto Shirogane
+Yusuke Kitagawa
+Strega
+Junya Kaneshiro
+Goro Akechi
+Mitsuru Kirijo
+Odin
+Abaddon
+Black Frost
+Alice
+Beezlebub
+Yoshitsune
+Surt
+
+-- Boss List
+Tohru Adachi
+Assistant Elizabeth
+Nyx
+Masayoshi Shido

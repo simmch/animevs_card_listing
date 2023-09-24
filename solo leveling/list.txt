@@ -1,0 +1,59 @@
+
+-- Destiny List
+Beru Shadow - 8
+Tank Shadow - 7
+Idris Shadow - 8
+Jin Woo - 9
+Bellion - 9
+Iron Shadow - 6
+Tusk Shadow - 6
+Min Byung-Gu Shadow - 7
+Shadow Monarch Jin Woo - 10
+Time Skip Jin Woo - 10
+Greed Shadow - 7
+Kaisel - 7
+
+-- Scenario List
+Architect - 8
+Ashborn - 10
+Sung Hwan - 8
+
+-- Tales List
+Baek Yoonho - 4
+Vulcan - 5
+Cerberus - 3
+Yoo Jinho - 1
+E Rank Jin Woo - 1
+Lee Ju-Hee - 3 
+Song Chi-Yul - 3
+Park Hee-Jin - 3
+Kang Tae-Shik - 3
+Ma Dong-Wook - 3
+Kim Chul - 3
+Esil Radiru - 2
+Norma Selner - 1
+Hwang Dong-Suk - 2
+Ant King - 6
+
+-- Dungeon List
+Yuri Orloff - 6
+Beast Baek Yoonho - 5
+Cha Hae In - 5
+Choi Jong In - 5
+Demon King Baran - 5
+Thomas Andre - 6
+Go Gunhee - 5
+Liu Zhigang - 6
+Christopher Reed - 6
+Dong-su Hwang - 6
+Goto Ryuji - 5
+Ahn Byung-Gyu - 5
+Woo Jin-Cheol - 4
+
+-- Boss List
+Statue Of God - 8
+Querehsha - 9
+Frost Monarch - 9
+Beast Monarch - 9
+Antares - 10
+Iron Body - 9

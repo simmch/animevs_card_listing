@@ -1,0 +1,42 @@
+
+-- Destiny List
+Captain Levi - 9
+Attack Titan - 9
+
+-- Scenario List
+Armin - 3
+Mikasa - 7
+Jaw Titan - 8
+Eren Jaeger - 4
+Warhammer Titan - 8
+Beast Titan - 9
+Colossal Titan - 9
+Female Titan - 8
+Armored Titan - 8
+Future Eren - 6
+Future Armin - 5
+Future Mikasa - 8
+Zeke Jaeger - 5
+
+-- Tales List
+Sasha - 3
+Bertholdt - 4
+Lady Ymir - 3
+Connie - 3
+Hange - 4
+Gabi - 4
+Porco - 3
+Jean - - 4
+Historia - 3
+Pieck - 3
+
+-- Dungeon List
+Reiner - 5
+Captain Erwin - 6
+Annie - 5
+Kenny - 6
+Rod Reiss - 4
+Grisha Jaeger - 5
+
+-- Boss List
+Founding Titan - 10

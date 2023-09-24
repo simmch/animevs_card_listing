@@ -1,0 +1,50 @@
+
+-- Destiny List
+Van Hohenheim 
+
+-- Scenario List
+Selim Bradley
+Scar 
+Roy Mustang 
+Edward Elric 
+
+-- Tales List
+Alphonse Elric 
+Vato Falman 
+Tim Marcoh 
+Barry the Chopper 
+Gluttony 
+Paninya 
+Maria Ross 
+Darius 
+Heinkel 
+Zampano 
+Roa 
+Yoki 
+Lieutenant General Raven 
+Frank Archer 
+Basque Grand 
+Isaac McDougal 
+Martel 
+Dolcetto 
+May Chang 
+Sheska
+Shou Tucker 
+
+-- Dungeon List
+Izumi Curtis 
+Ling Yao 
+Riza Hawkeye 
+Olivier Mira Armstrong 
+Solf J. Kimblee 
+Alex Louis Armstrong 
+Maes Hughes 
+Jean Havoc 
+Heymans Breda 
+
+-- Boss List
+Truth 
+Father 
+Homunculus (Lust) 
+Homunculus (Wrath) 
+Homunculus (Envy) 

@@ -1,0 +1,37 @@
+-- Destiny List
+L - 9
+Light Yagami - 9
+Misa Amane - 9
+Rem - 9
+
+-- Scenario List
+Soichiro Yagami - 4
+Near - 10
+Minoru Tanaka - 10
+
+-- Tales List
+Kiyomi Takada - 1
+Watari - 7
+Sayu Yagami - 1
+Matsuda Touta - 2
+Aizawa Shuichi - 2
+Mogi Kanzo - 2
+Ide Hideki - 2
+Ukita  - 2
+Raye Penber - 4
+Naomi Misora - 4
+Halle Lidne - 5
+Stephen Gevanni - 5
+Anthony Rester - 5
+Sachiko Yagami - 1
+
+-- Dungeon List
+Higuchi Kyosuke - 7
+Sidoh - 7
+Gelus - 7
+Teru Mikami - 8
+Mello - 8
+
+-- Boss List
+Ryuk - 10
+Shinigami King - 10

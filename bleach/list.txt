@@ -1,0 +1,121 @@
+
+-- Destiny List
+The First Kenpachi, Retsu Unohana - 8
+Hollow Ichigo - 5
+Vasto Lordes Ichigo - 7
+Royal Byakuya - 8
+Royal Rukia - 7
+Royal Renji - 6
+Adult Toshiro Hitsugaya - 8
+Successor Uryu Ishida - 9
+Ryuken Ishida - 7
+Hichigo Shirosaki - 7
+White - 7
+Unleashed Kenpachi Zaraki - 10
+Kenpachi Zaraki - 6
+Royal Ichigo Kurosaki - 10
+Hybrid Sajin Komamura - 6
+Isshin Kurosaki - 7
+Imprisioned Aizen - 10
+Hogyoku Aizen - 9
+Almighty Yhwach Bach - 10
+Fullbringer Ichigo - 8
+
+
+-- Scenario List
+Grimmjow - 5
+Genryusai Shigekuni Yamamoto - 10
+Dangai Ichigo - 9
+Ichibe Hyosube - 10
+Ulquiorra Cifer - 7
+Coyote Stark - 5
+Barragan Louisenbairn - 6
+Luppi Antenor - 4
+Tier Harribel - 5
+Aaroniero Arruruerie - 4
+Yammy Llargo - 6
+Nnoitra Gilga - 5
+Ichigo Kurosaki - 4
+Jugram Haschwalth (also known as "The B") - 10
+Pernida Parnkgjas ("The Compulsory") - 10
+Askin Nakk Le Vaar ("The Deathdealing") - 10
+Bambietta Basterbine ("The Explode") - 7
+Äs Nödt ("The Fear") - 7
+Liltotto Lamperd ("The Glutton") - 10
+Bazz-B ("The Heat") - 8
+Cang Du ("The Iron") - 5
+Quilge Opie ("The Jail") - 6
+BG9 ("The Knuckle") - 5
+PePe Waccabrada ("The Love") - 6
+Gerard Valkyrie ("The Miracle") - 10
+Robert Accutrone ("The Overkill") - 8
+Driscoll Berci ("The Overkill") - 7
+Meninas McAllon ("The Power") - 7
+Berenice Gabrielli ("The Question") - 3
+Jerome Guizbatt ("The Roar") - 5
+Mask De Masculine ("The Superstar") - 6
+Candice Catnipp ("The Thunderbolt") - 7
+NaNaNa Najahkoop ("The Underbelly") - 6
+Gremmy Thoumeaux ("The Visionary") - 9
+Nianzol Weizol ("The Wind") - 6
+Royd Lloyd ("The Yourself") - 9
+Shaz Domino ("The Yourself") - 3
+Giselle Gewelle ("The Zombie") - 7
+Love Aikawa - 5
+Hiyori Sarugaki - 5
+Hachigen Ushoda - 5
+Lisa Yadomaru - 5
+Orihime Inoue - 10
+Yasutora Sado - 6
+
+-- Tales List
+Yumichika Ayasegawa - 2
+Hanataro Yamada - 1
+Uryu Ishida - 4
+Sajin Komamura - 4
+Renji Abarai - 3
+Giriko Kutsuzawa - 2
+Maki Ichinose - 2
+Izuru Kira - 3
+Rangiku Matsumoto - 3
+Shuhei Hisagi - 3
+Riruka Dokugamine - 3
+Moe Shishigawara - 3
+Grand Fisher - 1
+Yukio Hans Vorarlberna - 3
+Ikkaku Madarame - 3
+Jin Kariya - 4
+Momo Hinamori - 2
+Ganju Shiba - 1
+Kuukaku Shiba - 1
+Cirucci Sanderwicci - 3
+Dordonii Alessandro Del Socaccio - 4
+Yachiru Kusajishi - 3
+Rudbornn Chelute - 2
+Rukia Kuchiki - 3
+
+
+-- Dungeon List
+Retsu Unohana - 2
+Wonderweiss Margela - 2
+Tessai Tsukabishi - 3
+Zommari Rureaux - 4
+Shunsui Kyoraku - 8
+Yoruichi - 6
+Mayuri Kurotsuchi - 7
+Jushiro Ukitake - 7
+Byakuya Kuchiki - 6
+Kaname Tosen - 5
+Kisuke Urahara - 9
+Toshiro Hitsugaya - 6
+Shinji Hirako - 6
+Soifon - 5
+Gin Ichimaru - 7
+Kugo Ginjo - 7
+Shukuro Tsukishima - 7
+Nelliel Tu Odelschwanck - 5
+Szayelaporro Granz - 4
+
+-- Boss List
+Sosuke Aizen - 8
+Yhwach Bach - 10

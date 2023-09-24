@@ -1,0 +1,103 @@
+-- Destiny List
+First Form Frieza
+Second Form Frieza
+Third Form Frieza
+Final Form Frieza
+SSG Vegeta
+Ultra Instinct Goku
+SSJ4 Vegeta
+SSJ4 Goku
+SSJ3 Goku
+SSJ2 Goku
+Semi-Perfect Cell
+Perfect Cell
+SSG Goku
+Majin Vegeta
+Teen Gohan
+Perfect Cell
+Ultra Ego Vegeta
+SSGB Goku
+SSGB Vegeta
+
+-- Scenario List
+Goku
+Goku Black
+Vegeta
+Imperfect Cell
+Orange Piccolo
+Vegito
+Moro
+Beerus
+Broly
+Zamasu
+Omega Shenron
+Gogeta
+Majin Buu
+Gotenks
+Bardock
+Beast Gohan
+Whis
+Grand Priest
+
+-- Tales List
+Shampa
+Bulma
+Chiaotzu
+Yajirobe
+Chi-Chi
+Android 18
+Baby
+Dr. Gero
+Android 13
+Kid Gohan
+Supreme Kai
+Android 19
+Piccolo
+Cabba
+Burter
+Cooler
+Videl
+Dabura
+Master Roshi
+Captain Ginyu
+Nappa
+Jeice
+Recoome
+Goten
+Tien
+Garlic Jr.
+Android 16
+Pan
+Turles
+Krillin
+Uub
+Zarbon
+Android 17
+Yamcha
+Raditz
+Kid Trunks
+Gohan
+
+-- Dungeon List
+Caulifla
+Super 17
+Teen Trunks
+Lord Slug
+Bojack
+Meta-Cooler
+Kale
+Janemba
+Toppo
+Hit
+Frost
+Gamma 1
+Gamma 2
+
+-- Boss
+Super Perfect Cell
+Kid Buu
+Hercule
+Golden Frieza
+Jiren
+Zeno
+Cell Max
