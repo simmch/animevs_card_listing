@@ -1,3 +1,24 @@
+-- Destiny List
+Portgas D. Ace
+Sabo
+Boa Hancock
+Gol D. Roger
+Silvers Rayleigh
+Vinsmoke Judge
+Vinsmoke Reiju
+Vinsmoke Ichiji
+Vinsmoke Niji
+Vinsmoke Yonji
+Snakeman Luffy
+Bounceman Luffy
+Tankman Luffy
+Gear 5 Luffy
+Fisher Tiger
+Corazon
+Yasopp
+Monkey D. Garp
+
+-- Scenario List
 Monkey D. Luffy
 Roronoa Zoro
 Nami
@@ -9,9 +30,6 @@ Franky
 Brook
 Jinbe
 Trafalgar Law
-Portgas D. Ace
-Sabo
-Boa Hancock
 Donquixote Doflamingo
 Crocodile
 Buggy
@@ -31,100 +49,22 @@ Charlotte Linlin (Big Mom)
 Kaido
 Shanks
 Edward Newgate (Whitebeard)
-Gol D. Roger
-Silvers Rayleigh
-Smoker
-Tashigi
 Kizaru (Borsalino)
 Aokiji (Kuzan)
 Akainu (Sakazuki)
 Fujitora (Issho)
 Ryokugyu (Green Bull)
 Sengoku
-Monkey D. Garp
-Coby
-Helmeppo
-Hina
-Bellamy
-Cavendish
-Bartolomeo
-Rebecca
-Viola
-Kyros
-Don Chinjao
-Riku Dold III
-Vinsmoke Judge
-Vinsmoke Reiju
-Vinsmoke Ichiji
-Vinsmoke Niji
-Vinsmoke Yonji
-Carrot
-Pedro
-Pekoms
-Tamago
-Bobbin
-Perospero
-Compote
-Daifuku
-Oven
-Cracker
-Smoothie
-Snack
-Katakuri
-Brulee
-Amande
-Mont-d'Or
-Galette
-Opera
-Pudding
-Snakeman Luffy
-Bounceman Luffy
-Tankman Luffy
-Gear 5 Luffy
-Wapol
-Dalton
-Dr. Kureha
-Vivi Nefertari
-Karoo
-Crocus
-Laboon
-Mr. 1 (Daz Bones)
-Mr. 2 Bon Kurei
-Mr. 3 (Galdino)
-Miss Goldenweek
-Mr. 4
-Miss Merry Christmas
-Mr. 5
-Miss Valentine
-Mr. 7
-Miss Father's Day
-Mr. 9
-Miss Monday
-Igaram
-Pell
+Queen
+King
+Yamato
+
+
+-- Tales List
 Chaka
-Koza
-Bentham (Mr. 2 Bon Kurei)
-Daz Bones (Mr. 1)
-Galdino (Mr. 3)
-Braham
-Genbo
-Aisa
-Wyper
-Enel
-Ohm
-Gedatsu
-Satori
-Shura
-Yama
-Hotori and Kotori
-Gan Fall
-Conis
-Pagaya
-McKinley
-Kamakiri
-Raki
-Urouge
+Paulie
+Pell
+Caesar Clown
 Blueno
 Rob Lucci
 Kaku
@@ -133,66 +73,58 @@ Fukurou
 Kumadori
 Jabra
 Spandam
-Nero
-Franky Family (Mozu, Kiwi, Zambai, etc.)
-Paulie
-Iceburg
-Tom
-Kokoro
-Chimney
-Gonbe
+Aarlong
+Coby
+Helmeppo
+Bellamy
+Cavendish
+Bartolomeo
+Rebecca
+Kyros
+Don Chinjao
+Riku Dold III
+Carrot
+Pedro
+Daifuku
+Oven
+Brulee
+Opera
+Pudding
+Wapol
+Dalton
+Dr. Kureha
+Vivi Nefertari
+Karoo
+Laboon
+Mr. 1 (Daz Bones)
+Mr. 2 Bon Kurei
+Mr. 3 (Galdino)
+Miss Goldenweek
+Mr. 4
+Miss Merry Christmas
+Miss Valentine
+Igaram
+Wyper
+Hotori and Kotori
+Gan Fall
+Kamakiri
 Yokozuna
-Oimo
-Kashii
-Hannyabal
-Magellan
-Domino
-Sadi
-Saldeath
-Emporio Ivankov
-Inazuma
-Shirahoshi
-King Neptune
-Queen Otohime
-Princess Mansherry
-Leo
-Riku Viola
-Tank Lepanto
-Hajrudin
-Ideo
-Suleiman
-Blue Gilly
-Abdullah and Jeet
 Orlumbus
-Sai
-Baby 5
-Bellamy (listed again for his significance in later arcs)
-Koala
-Hack
-Fisher Tiger
-Aladdin
-Praline
-Charlotte Amande
-Charlotte Brûlée
-Charlotte Cracker
-Charlotte Daifuku
-Charlotte Galette
-Charlotte Katakuri
-Charlotte Oven
-Charlotte Perospero
-Charlotte Pudding
-Charlotte Smoothie
-Charlotte Snack
-Donquixote Rosinante (Corazon)
 Monet
-Vergo
-Caesar Clown
-Jack
-Queen
-King
-Yamato
+
+-- Dungeon List
 Ulti
 Page One
 Black Maria
-Sasaki
-Who's-Who
+Jack
+Smoker
+Perospero
+Cracker
+Katakuri
+Enel
+Magellan
+Emporio Ivankov
+Shirahoshi
+Hody Jones
+Vergo
+

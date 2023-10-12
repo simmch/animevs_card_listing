@@ -1,24 +1,36 @@
-Yusuke
-Hiei
-Suzaku
-Kuwabara Kazuma
-Seiryu
-Bui
-Byakko
-Mukuro
-Genkai
-Rinku
-Kurama - Scenario
-Yoko Kurama - Destiny
-Shinobu Sensui
-Toguro
-Zeru
-Botan
-Rando
-Shishiwakamaru
-Elder Toguro
-Genbu
-Yomi
-Raizen
-Karasu
-Jin
+
+-- Destiny List
+Yoko Kurama - 8
+Demon Yusuke - 10
+
+-- Scenario List
+Yusuke - 9
+Hiei - 9
+Kuwabara Kazuma - 8
+Mukuro - 10
+Genkai - 7
+Kurama - 9
+Yomi - 10
+Raizen - 10
+
+-- Tales List
+Seiryu - 2
+Zeru - 3
+Botan - 1
+Rando - 4
+Shishiwakamaru - 5
+Genbu - 2
+Byakko - 2
+Rinku - 3
+Jin - 5
+Suzaku - 5
+
+-- Dungeon List
+Elder Toguro - 7
+Karasu - 7
+Bui - 6
+
+
+-- Boss List
+Shinobu Sensui - 10
+Younger Brother Toguro - 8

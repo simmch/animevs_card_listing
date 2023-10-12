@@ -7,6 +7,9 @@ Selim Bradley
 Scar 
 Roy Mustang 
 Edward Elric 
+Homunculus (Lust) 
+King Bradley
+Homunculus (Envy) 
 
 -- Tales List
 Alphonse Elric 
@@ -45,6 +48,3 @@ Heymans Breda
 -- Boss List
 Truth 
 Father 
-Homunculus (Lust) 
-Homunculus (Wrath) 
-Homunculus (Envy) 

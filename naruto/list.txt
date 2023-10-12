@@ -36,7 +36,17 @@ Anbu Kakashi Hatake - 5
 Gaara - 8
 Rin Nohara - 1
 Sage Kabuto - 8
-
+Naruto Uzumaki - 4
+Sakura Haruno - 5
+Sasuke Uchiha - 7
+Zabuza - 5
+Haku - 5
+Hidan - 5
+Konan - 7
+Deidera - 7 
+Sasori - 7
+Kakuzu - 7
+Kisame - 8
 
 -- Tales List
 Kidomaru - 3
@@ -44,22 +54,15 @@ Kiba Inuzuka - 5
 Kimimaro - 6
 Rock Lee - 7
 Tayuya - 3
-Naruto Uzumaki - 4
 Choji Akimichi - 7
-Zabuza - 6
-Hidan - 5
 Sakon - 3
-Sakura Haruno - 5
-Kakashi Hatake - 7
 Shikamaru Nara - 6
 Jirobo - 3
-Sasuke Uchiha - 7
 Neji Hyuga - 6
 Hinata Hyuga - 6
-Shino Aburame - 4
+Shino Aburame - 5
 Asuma Sarutobi - 6
 Captain Yamato - 5
-Haku - 5
 Choza Akimichi - 5
 Inoichi Yamanaka - 5
 Shikaku Nara - 5
@@ -69,7 +72,6 @@ Sai - 6
 Konohamaru Sarutobi - 1
 Anko Mitarashi - 4
 Kankuro - 7
-Darui - 7
 Ino Yamanaka - 3
 Iruka Sensei - 1
 Temari - 6
@@ -79,31 +81,26 @@ Genma Shiranui - 5
 Raido Namiashi - 5
 Kotetsu Hagane - 5
 Izumo Kamizuki - 5
-Chojuro - 6
-C - 6
-Samui - 5
 Karui - 5
 Omoi - 5
 Kurenai Yuhi - 5
 
 -- Dungeon List
+Chojuro - 6
+Darui - 7
+Kakashi Hatake - 7
 Orochimaru - 8
 Akatsuchi - 6
 Kurotsuchi - 6
 Ao - 6
 Mifune - 6 
 Hiashi Hyuga - 5
-Konan - 7
 Might Guy - 9
 Shisui Uchiha - 7
 Obito Uchiha - 8
-Sasori - 7
 Rasa - 7
 Hanzo - 6
-Deidera - 7 
-Kakuzu - 7
 Kabuto - 6
-Kisame - 8
 Mei Terumi - 7
 Gengetsu - 8
 Danzo - 7
