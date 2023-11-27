@@ -1,46 +1,43 @@
 
 -- Destiny List
 First Kenpachi, Retsu Unohana - 8 x
-Hollow Ichigo - 5
-Vasto Lordes Ichigo - 7
-Royal Byakuya - 8
-Royal Rukia - 7
-Royal Renji - 6
-Adult Toshiro Hitsugaya - 8
-Successor Uryu Ishida - 9
-Ryuken Ishida - 7
-Hichigo Shirosaki - 7
-White - 7
-Unleashed Kenpachi Zaraki - 9
-Kenpachi Zaraki - 6
-Royal Ichigo Kurosaki - 10
-Hybrid Sajin Komamura - 6
-Isshin Kurosaki - 7
-Imprisioned Aizen - 10
-Hogyoku Aizen - 9
-Almighty Yhwach Bach - 10
-Fullbringer Ichigo - 8
-
+Hollow Ichigo - 5 x
+Vasto Lordes Ichigo - 7 x
+Royal Byakuya - 8 x
+Royal Rukia - 7 x
+Royal Renji - 6 x
+Adult Toshiro Hitsugaya - 8 x
+Successor Uryu Ishida - 9 x
+Ryuken Ishida - 7 x
+White - 7 x
+Unleashed Kenpachi Zaraki - 9 x
+Kenpachi Zaraki - 6 x
+Royal Ichigo Kurosaki - 10 x
+Hybrid Sajin Komamura - 7 x
+Isshin Kurosaki - 7 x
+Imprisioned Aizen - 10 x
+Hogyoku Aizen - 9 x
+Almighty Yhwach Bach - 10 x
+Fullbringer Ichigo - 8 x
 
 -- Scenario List
-Senjumaru Shutara - 10
-Kirio Hikifune - 10
-Ichibei Hyosube - 10 
-Oetsu Nimaiya - 10
-Tenjiro Kirinji - 10
-Grimmjow - 5
-Genryusai Shigekuni Yamamoto - 9
-Tenjiro Kirinji - 10
-Dangai Ichigo - 9
-Ulquiorra Cifer - 7
-Coyote Stark - 5
-Barragan Louisenbairn - 6
-Luppi Antenor - 4
-Tier Harribel - 5
-Aaroniero Arruruerie - 4
-Yammy Llargo - 6
-Nnoitra Gilga - 5
-Ichigo Kurosaki - 4
+Senjumaru Shutara - 10 x
+Kirio Hikifune - 10 x
+Ichibei Hyosube - 10 x
+Oetsu Nimaiya - 10 x
+Tenjiro Kirinji - 10 x
+Grimmjow - 6 x
+Genryusai Shigekuni Yamamoto - 9 x
+Dangai Ichigo - 9 x
+Ulquiorra Cifer - 7 x
+Coyote Stark - 5 x
+Barragan Louisenbairn - 6 x
+Luppi Antenor - 4 x
+Tier Harribel - 6 x
+Aaroniero Arruruerie - 4 x
+Yammy Llargo - 6 x
+Nnoitra Gilga - 5 x
+Ichigo Kurosaki - 4 x
 Jugram Haschwalth (also known as "The B") - 9
 Pernida Parnkgjas ("The Compulsory") - 9
 Askin Nakk Le Vaar ("The Deathdealing") - 9
@@ -48,29 +45,27 @@ Bambietta Basterbine ("The Explode") - 7
 Äs Nödt ("The Fear") - 7
 Liltotto Lamperd ("The Glutton") - 8
 Bazz-B ("The Heat") - 8
-Cang Du ("The Iron") - 5
+Cang Du ("The Iron") - 6
 Quilge Opie ("The Jail") - 6
 BG9 ("The Knuckle") - 5
 PePe Waccabrada ("The Love") - 6
 Gerard Valkyrie ("The Miracle") - 9
-Robert Accutrone ("The Overkill") - 8
+Robert Accutrone ("The Overkill") - 7
 Driscoll Berci ("The Overkill") - 7
 Meninas McAllon ("The Power") - 7
 Berenice Gabrielli ("The Question") - 3
-Jerome Guizbatt ("The Roar") - 5
+Jerome Guizbatt ("The Roar") - 4
 Mask De Masculine ("The Superstar") - 6
 Candice Catnipp ("The Thunderbolt") - 7
 NaNaNa Najahkoop ("The Underbelly") - 6
 Gremmy Thoumeaux ("The Visionary") - 9
 Nianzol Weizol ("The Wind") - 6
-Royd Lloyd ("The Yourself") - 9
-Shaz Domino ("The Yourself") - 3
 Giselle Gewelle ("The Zombie") - 7
 Love Aikawa - 5
 Hiyori Sarugaki - 5
 Hachigen Ushoda - 5
 Lisa Yadomaru - 5
-Orihime Inoue - 9
+Orihime Inoue - 8
 Yasutora Sado - 6
 
 -- Tales List

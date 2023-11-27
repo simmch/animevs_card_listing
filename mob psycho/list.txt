@@ -1,15 +1,15 @@
 
 -- Destiny List
-Shigeo Kageyama / Mob (s1)
+Shigeo Kageyama
 Shigeo Kageyama 100
 Arataka Reigen 100
-Ritsu Kageyama (s1)
+Ritsu Kageyama
 Musashi Goda Dimple
 
 
 -- Tales List
-Arataka Reigen (base)
-Dimple (spirit)
+Arataka Reigen
+Dimple
 Tome Kurata
 Tsubomi Takane
 Musashi Goda
@@ -30,8 +30,8 @@ Muraki
 Yusuke Sakurai
 
 -- Dungeon List
-Teruki Hanazawa (s1)
-Sho Suzuki (s1)
+Teruki Hanazawa
+Sho Suzuki
 Katsuya Serizawa
 Minegishi
 Otsuki
