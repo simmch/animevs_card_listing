@@ -1,103 +1,101 @@
 -- Destiny List
-First Form Frieza
-Second Form Frieza
-Third Form Frieza
-Final Form Frieza
-SSG Vegeta
-Ultra Instinct Goku
-SSJ4 Vegeta
-SSJ4 Goku
-SSJ3 Goku
-SSJ2 Goku
-Semi-Perfect Cell
-Perfect Cell
-SSG Goku
-Majin Vegeta
-Teen Gohan
-Perfect Cell
-Ultra Ego Vegeta
-SSGB Goku
-SSGB Vegeta
+First Form Frieza - 2
+Second Form Frieza - 2
+Third Form Frieza - 2
+Final Form Frieza - 3
+SSG Vegeta - 7
+Ultra Instinct Goku - 10
+SSJ4 Vegeta - 8
+SSJ4 Goku - 8
+SSJ3 Goku - 6
+SSJ2 Goku - 5
+Semi-Perfect Cell - 3
+Perfect Cell - 4
+SSG Goku - 7
+Majin Vegeta - 5
+Teen Gohan - 5
+Ultra Ego Vegeta - 10
+SSGB Goku - 8
+SSGB Vegeta - 8
 
 -- Scenario List
-Goku
-Goku Black
-Vegeta
-Imperfect Cell
-Orange Piccolo
-Vegito
-Moro
-Beerus
-Broly
-Zamasu
-Omega Shenron
-Gogeta
-Majin Buu
-Gotenks
-Bardock
-Beast Gohan
-Whis
-Grand Priest
+Goku - 4
+Goku Black - 7
+Vegeta - 4
+Imperfect Cell - 2
+Orange Piccolo - 8
+Vegito - 9
+Moro - 10
+Beerus - 10
+Broly - 10
+Zamasu - 5
+Omega Shenron - 9
+Gogeta - 10
+Majin Buu - 6
+Gotenks - 7
+Bardock - 4
+Beast Gohan - 10
+Whis - 10
+Grand Priest - 10
 
 -- Tales List
-Shampa
-Bulma
-Chiaotzu
-Yajirobe
-Chi-Chi
-Android 18
-Baby
-Dr. Gero
-Android 13
-Kid Gohan
-Supreme Kai
-Android 19
-Piccolo
-Cabba
-Burter
-Cooler
-Videl
-Dabura
-Master Roshi
-Captain Ginyu
-Nappa
-Jeice
-Recoome
-Goten
-Tien
-Garlic Jr.
-Android 16
-Pan
-Turles
-Krillin
-Uub
-Zarbon
-Android 17
-Yamcha
-Raditz
-Kid Trunks
-Gohan
+Shampa - 9
+Bulma - 1
+Chiaotzu - 1
+Yajirobe - 1
+Chi-Chi - 1
+Android 18 - 4
+Baby - 6
+Dr. Gero - 3
+Android 13 - 4 
+Kid Gohan - 2
+Supreme Kai - 4
+Android 19 - 3
+Piccolo - 4
+Cabba - 5
+Burter - 2
+Cooler - 3
+Videl - 1
+Dabura - 5
+Master Roshi - 4 
+Captain Ginyu - 3
+Nappa - 2
+Jeice - 2
+Recoome - 2
+Goten - 3
+Tien - 2
+Garlic Jr. - 1
+Android 16 - 3
+Pan - 1
+Turles - 2
+Krillin - 4
+Uub - 4
+Zarbon - 2
+Android 17 - 6
+Yamcha - 1
+Raditz - 2
+Kid Trunks - 4
+Gohan - 6
 
 -- Dungeon List
-Caulifla
-Super 17
-Teen Trunks
-Lord Slug
-Bojack
-Meta-Cooler
-Kale
-Janemba
-Toppo
-Hit
-Frost
-Gamma 1
-Gamma 2
+Caulifla - 5
+Super 17 - 7
+Teen Trunks - 7
+Lord Slug - 2
+Bojack  - 3 
+Meta-Cooler - 3
+Kale - 5
+Janemba - 5
+Toppo - 8
+Hit - 7
+Frost - 5
+Gamma 1 - 7
+Gamma 2 - 7
 
 -- Boss
-Super Perfect Cell
-Kid Buu
-Hercule
-Golden Frieza
-Jiren
-Zeno
-Cell Max
+Kid Buu - 7
+Hercule - 1
+Golden Frieza - 7
+Jiren - 10
+Cell Max - 10
+Black Frieza - 10

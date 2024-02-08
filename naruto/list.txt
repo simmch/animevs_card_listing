@@ -31,11 +31,10 @@ Roshi - 7
 Han - 7
 Yagura - 8
 Kushina Uzumaki - 6
-Killer B
+Killer B 
 Anbu Kakashi Hatake - 5
 Gaara - 8
 Rin Nohara - 1
-Sage Kabuto - 8
 Naruto Uzumaki - 4
 Sakura Haruno - 5
 Sasuke Uchiha - 7
@@ -44,9 +43,10 @@ Haku - 5
 Hidan - 5
 Konan - 7
 Deidera - 7 
-Sasori - 7
 Kakuzu - 7
 Kisame - 8
+Sasori - 7
+Sage Kabuto - 8
 
 -- Tales List
 Kidomaru - 3

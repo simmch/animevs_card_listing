@@ -1,130 +1,114 @@
 -- Destiny List
-Portgas D. Ace
-Sabo
-Boa Hancock
-Gol D. Roger
-Silvers Rayleigh
-Vinsmoke Judge
-Vinsmoke Reiju
-Vinsmoke Ichiji
-Vinsmoke Niji
-Vinsmoke Yonji
-Snakeman Luffy
-Bounceman Luffy
-Tankman Luffy
-Gear 5 Luffy
-Fisher Tiger
-Corazon
-Yasopp
-Monkey D. Garp
+Portgas D. Ace - 7
+Sabo - 8
+Boa Hancock - 7
+Gol D. Roger - 10
+Silvers Rayleigh - 10
+Vinsmoke Judge - 5
+Vinsmoke Reiju - 5
+Vinsmoke Ichiji - 5
+Vinsmoke Niji - 5
+Vinsmoke Yonji - 5
+Snakeman Luffy - 8
+Bounceman Luffy - 8
+Tankman Luffy - 5
+Gear 5 Luffy - 9
+Corazon - 5
+Yasopp - 7
+Monkey D. Garp - 10
 
 -- Scenario List
-Monkey D. Luffy
-Roronoa Zoro
-Nami
-Usopp
-Sanji
-Tony Tony Chopper
-Nico Robin
-Franky
-Brook
-Jinbe
-Trafalgar Law
-Donquixote Doflamingo
-Crocodile
-Buggy
-Dracule Mihawk
-Bartholomew Kuma
-Gecko Moria
-Marshall D. Teach (Blackbeard)
-Eustass Kid
-Basil Hawkins
-Scratchmen Apoo
-X Drake
-Capone Bege
-Jewelry Bonney
-Urouge
-Killer
-Charlotte Linlin (Big Mom)
-Kaido
-Shanks
-Edward Newgate (Whitebeard)
-Kizaru (Borsalino)
-Aokiji (Kuzan)
-Akainu (Sakazuki)
-Fujitora (Issho)
-Ryokugyu (Green Bull)
-Sengoku
-Queen
-King
-Yamato
-
+Monkey D. Luffy - 7
+Roronoa Zoro - 8
+Nami - 5
+Usopp - 4
+Sanji - 7
+Tony Tony Chopper - 3
+Nico Robin - 6
+Franky - 5
+Brook - 6
+Jinbe - 7
+Trafalgar Law - 7
+Donquixote Doflamingo - 7
+Crocodile - 5
+Buggy - 3
+Dracule Mihawk - 10
+Bartholomew Kuma - 7
+Gecko Moria - 6
+Marshall D. Teach (Blackbeard) - 9
+Eustass Kid - 7
+Basil Hawkins - 5
+Scratchmen Apoo - 6
+X Drake - 5
+Capone Bege - 4
+Jewelry Bonney - 4
+Urouge - 3
+Killer - 6
+Charlotte Linlin (Big Mom) - 9
+Kaido - 9
+Shanks - 10
+Edward Newgate (Whitebeard) - 10
+Kizaru (Borsalino) - 8
+Aokiji (Kuzan) - 8
+Akainu (Sakazuki) - 8
+Fujitora (Issho) - 8
+Ryokugyu (Green Bull) - 8
+Sengoku - 9
+Queen - 6
+King - 7
+Yamato - 7
 
 -- Tales List
-Chaka
-Paulie
-Pell
-Caesar Clown
-Blueno
-Rob Lucci
-Kaku
-Kalifa
-Fukurou
-Kumadori
-Jabra
-Spandam
-Aarlong
-Coby
-Helmeppo
-Bellamy
-Cavendish
-Bartolomeo
-Rebecca
-Kyros
-Don Chinjao
-Riku Dold III
-Carrot
-Pedro
-Daifuku
-Oven
-Brulee
-Opera
-Pudding
-Wapol
-Dalton
-Dr. Kureha
-Vivi Nefertari
-Karoo
-Laboon
-Mr. 1 (Daz Bones)
-Mr. 2 Bon Kurei
-Mr. 3 (Galdino)
-Miss Goldenweek
-Mr. 4
-Miss Merry Christmas
-Miss Valentine
-Igaram
-Wyper
-Hotori and Kotori
-Gan Fall
-Kamakiri
-Yokozuna
-Orlumbus
-Monet
+Chaka - 3
+Paulie - 1
+Pell - 3
+Caesar Clown - 5
+Blueno - 3
+Rob Lucci - 5
+Kaku - 4
+Kalifa - 3
+Fukurou - 2
+Kumadori - 2
+Jabra - 3
+Spandam - 1
+Aarlong - 3
+Coby - 5
+Helmeppo - 4
+Bellamy - 2
+Cavendish - 4
+Bartolomeo - 4
+Rebecca - 3
+Kyros - 2
+Don Chinjao - 6
+Carrot - 5 
+Pedro - 5
+Daifuku - 4
+Oven - 4
+Brulee - 2
+Wapol - 1
+Vivi Nefertari - 1
+Mr. 1 (Daz Bones) - 3
+Mr. 2 Bon Kurei - 4
+Mr. 3 (Galdino) - 2
+Miss Merry Christmas - 3
+Miss Valentine - 3
+Igaram - 2
+Wyper - 3
+Gan Fall - 3 
+Monet - 5
 
 -- Dungeon List
-Ulti
-Page One
-Black Maria
-Jack
-Smoker
-Perospero
-Cracker
-Katakuri
-Enel
-Magellan
-Emporio Ivankov
-Shirahoshi
-Hody Jones
-Vergo
-
+Ulti - 6
+Page One - 5 
+Black Maria - 6
+Jack - 7
+Smoker - 5
+Perospero - 5
+Cracker - 5
+Katakuri - 7
+Enel - 4
+Magellan - 7
+Emporio Ivankov - 5
+Shirahoshi - 6
+Hody Jones - 4
+Vergo - 5

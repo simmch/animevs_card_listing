@@ -1,59 +1,59 @@
 
 -- Destiny List
-Yu Narukami
-Minato Arisato
-Ren Amamiya
-Messiah
-Lucifer
-Satan
-Satanel
-Izanami Picaro
-Thanatos
+Yu Narukami - 9
+Minato Arisato - 9
+Ren Amamiya - 9
+Messiah - 10
+Lucifer - 10
+Satan - 9
+Satanel - 10
+Izanami Picaro - 8
+Thanatos - 8
 
 -- Scenario List
-The Reaper
-Makoto Nijima
-Ichiryusai Madarame
-Yukiko Amagi
-Ann Takamaki
-Aigis
-Suguru Kamoshida
-Izanami
+The Reaper - 10
+Makoto Nijima - 7
+Ichiryusai Madarame - 6
+Yukiko Amagi - 7
+Ann Takamaki - 7
+Aigis - 8
+Suguru Kamoshida - 4
+Izanami - 8
 
 -- Tales List
-Koromaru
-Kanji Tatsumi
-Haru Okumura
-Rise Kujikawa
-Akihiko Sanada
-Junpei Iori
-Morgana
-Shinjiro Aragaki
-Futaba Sakura
-Ryuji Sakamoto
-Teddie
-Chie Satonaka
-Yukari Takeba
-Yosuke Hanamura
-Ken Amada
+Koromaru - 5
+Kanji Tatsumi - 6
+Haru Okumura - 7
+Rise Kujikawa - 4
+Akihiko Sanada - 7
+Junpei Iori - 7
+Morgana - 4
+Shinjiro Aragaki - 7
+Futaba Sakura - 4
+Ryuji Sakamoto - 7
+Teddie - 3
+Chie Satonaka - 7
+Yukari Takeba  - 7
+Yosuke Hanamura - 7
+Ken Amada - 6
 
 -- Dungeon List
-Naoto Shirogane
-Yusuke Kitagawa
-Strega
-Junya Kaneshiro
-Goro Akechi
-Mitsuru Kirijo
-Odin
-Abaddon
-Black Frost
-Alice
-Beezlebub
-Yoshitsune
-Surt
+Naoto Shirogane - 8
+Yusuke Kitagawa - 8
+Strega - 8
+Junya Kaneshiro - 8
+Goro Akechi - 8
+Mitsuru Kirijo - 8
+Odin - 9
+Abaddon - 8
+Black Frost - 8
+Alice - 8
+Beezlebub - 9
+Yoshitsune - 9
+Surt - 9
 
 -- Boss List
-Tohru Adachi
-Assistant Elizabeth
-Nyx
-Masayoshi Shido
+Tohru Adachi - 10
+Assistant Elizabeth - 10
+Nyx - 10
+Masayoshi Shido - 9
